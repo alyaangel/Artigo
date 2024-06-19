@@ -27,7 +27,7 @@ Lexica art:
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título |star wars |
+| capa |star wars |
 
 Copilot:
 
@@ -39,13 +39,13 @@ Copilot:
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagem da capa gerada via Openart
-- Imagens de capítulos via Pinterest
+- Imagem da feita em canva
+- Imagens de capa via lexica art
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- ebook gerado durante a aula em `output`
 
 ## 🛠️ Instruções de execução
 
