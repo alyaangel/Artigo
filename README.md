@@ -6,7 +6,8 @@
 Projeto com o objetivo de gerar um artigo digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-[📕Clique aqui para ler]([https://github.com/angeluuy/prompts_recipe_to_creat_ebook/blob/main/outputs/Pokecode%20(1).pdf](https://github.com/alyaangel/Artigo/blob/main/output/Explorando%20o%20Futuro%20A%20Fascinante%20Interse%C3%A7%C3%A3o%20entre%20Realidade%20Virtual%20e%20Realidade%20Aumentada.pdf))
+[📕Clique aqui para ler o documento](https://github.com/alyaangel/Artigo/blob/main/output/Explorando%20o%20Futuro%20A%20Fascinante%20Interse%C3%A7%C3%A3o%20entre%20Realidade%20Virtual%20e%20Realidade%20Aumentada.pdf)
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
